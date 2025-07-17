@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Activities
+## 🪧 Activities
 
 - [2024.07~2025.01]: CECOM - 기획부원
 - [2024.09~2025.07]: GDGoC CAU - Team member
 
-## Awards
+## 🏅 Awards
 - 2024 중앙대학교 공학교육혁신센터 캡스톤 디자인 경진대회(CDIC) 아이디어 평가회 우수상 : RFID를 활용한 오브젝트 리마인더
 - 2024 중앙대학교 LINC+ 캡스톤디자인 경진대회 기계형부문 장려상 : 메모랜트
 
-## Tech Stack
+## 🪛 Tech Stack
 
 ![js](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![js](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
