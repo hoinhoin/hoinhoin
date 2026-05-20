@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## 🪧 Activities
 
-- [2024.07~2025.01]: CECOM - 기획부원
+- [2023.03 ~]: CECOM
 - [2024.09~2025.07]: GDGoC CAU - Team member
 
 ## 🏅 Awards
@@ -38,5 +38,4 @@ Here are some ideas to get you started:
 ![js](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![js](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoinhoin)](https://github.com/anuraghazra/github-readme-stats)
 
