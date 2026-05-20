@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ## 🪧 Activities
 
-- [2024.09~2025.07]: GDGoC CAU - Team member
-- [2023.03 ~]: CECOM
+- [2024.09 - 2025.07]: GDGoC CAU - Team member
+- [2023.03 - ]: CECOM
 
 ## 🏅 Awards
 - 2024 중앙대학교 공학교육혁신센터 캡스톤 디자인 경진대회(CDIC) 아이디어 평가회 우수상 : RFID를 활용한 오브젝트 리마인더
